@@ -31,7 +31,7 @@
 
 ## 크래딧 ##
 
-본 플러그인을 이용해서 방송을 할경우엔 플러그인에 내장되어 있는 개발자 공지 메세지 기능을 켜두시거나 끄실경우 설명칸에 제 유튜브 링크와 플러그인 설명을 간단히 해주시기 바랍니다.
+저에게 크래딧을 주시는 방법은 블로그 포스트에 자세하게 써 있습니다.
 
 > 예:  
 > 본 컨텐츠 플러그인은 '기돈유'님이 개발하셨습니다.  
@@ -39,10 +39,12 @@
 > 유튜브: https://www.youtube.com/gidonyou
 
 ## 도움을 주신 분들 ##
-베타 테스터 (Beta Tester): NF3charcoaL, J\_arvi\_S, TF2\_ValS  
-문법 수정 도움: NF3charcoaL
+[1.1.0 베타테스트]  
+NF3charcoaL, C4PB_Shams, J_arvi_S (자비스), 퓨리, Simbap_927 (심심하면 밥묵자), TF2_ValS, mo_rem719 (모램)
 
 
+## GitHub 업데이트 RSS ##
+https://github.com/gidonyou/MCPlugin_GameAge/releases.atom
 
 [기돈유 YT]: https://www.youtube.com/gidonyou
 [위키]: https://github.com/gidonyou/MCPlugin_GameAge/wiki
